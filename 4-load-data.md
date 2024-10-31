@@ -20,4 +20,4 @@ def load_data(path='mnist.npz'):
 
 MNIST是一个包含60,000个训练图像和10,000测试图像的手写数字的数据集，图像的维度是28x28。下图是取自测试集中的样例：
 
-![MNIST sample images](images\mnist_examples.png)
+![MNIST sample images](images/mnist_examples.png)
